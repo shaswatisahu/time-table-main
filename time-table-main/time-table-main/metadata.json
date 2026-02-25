@@ -1,0 +1,8 @@
+{
+  "name": "My Performance Hub",
+  "description": "A comprehensive personal performance dashboard tracking tasks, study hours, and weekly progress with AI-powered insights.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
