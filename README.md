@@ -4,7 +4,7 @@ A full-stack web application built using React + Vite (Frontend) and Node.js + E
 
 📌 Tech Stack 🖥 Frontend
 
-React
+React.
 
 Vite
 
